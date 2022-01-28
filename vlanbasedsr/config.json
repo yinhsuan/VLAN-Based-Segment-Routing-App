@@ -1,0 +1,22 @@
+{
+    "devices": {
+        "of:0000000000000001": {
+            "SegmentConfig": {
+                "SegmentId": 101,
+                "Subnet": "10.0.0.0/16"
+            }
+        },
+        "of:0000000000000002": {
+            "SegmentConfig": {
+                "SegmentId": 102,
+                "Subnet": "10.0.2.0/24"
+            }
+        },
+        "of:0000000000000003": {
+            "SegmentConfig": {
+                "SegmentId": 103,
+                "Subnet": "10.0.3.0/24"
+            }
+        }
+    }
+}
